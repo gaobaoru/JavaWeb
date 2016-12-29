@@ -1,5 +1,11 @@
 # JavaWeb
 
+###godfrey
+
+###http://github.com/gaobaoru/JavaWeb
+
+###license:  see LICENSE.txt
+
 ## 云课堂昵称：高宝儒
 
 ## 本项目主要包含下面五部分内容：
